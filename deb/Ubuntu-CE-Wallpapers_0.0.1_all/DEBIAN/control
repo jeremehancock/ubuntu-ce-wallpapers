@@ -1,8 +1,0 @@
-Package: ubuntu-ce-wallpapers
-Version: 0.0.1
-Architecture: all
-Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 3170
-Section: x11
-Priority: optional
-Description: Christian Wallpapers for Ubuntu CE
