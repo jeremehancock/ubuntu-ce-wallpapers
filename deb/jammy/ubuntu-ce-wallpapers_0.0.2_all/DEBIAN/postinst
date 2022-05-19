@@ -1,5 +1,0 @@
-#!/bin/bash
-
-chmod a+r /usr/share/backgrounds/*
-
-exit 0

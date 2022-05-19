@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu CE Wallpapers</name>
+   <filename>/usr/share/backgrounds/Ubuntu-CE.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 1</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-1.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 2</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-2.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 3</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-3.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 4</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-4.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 5</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-5.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 6</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-6.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 7</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-7.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 8</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-8.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 9</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-9.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 10</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-10.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 11</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-11.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 12</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-12.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 13</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-13.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 14</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-14.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 15</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-15.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 16</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-16.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 17</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-17.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 18</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-18.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 19</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-19.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 20</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-20.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 21</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-21.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 22</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-22.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+  <wallpaper>
+     <name>Abstract 23</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-23.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 24</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-24.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 25</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-25.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 26</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-26.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract 27</name>
+     <filename>/usr/share/backgrounds/ubuntu-ce-27.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
