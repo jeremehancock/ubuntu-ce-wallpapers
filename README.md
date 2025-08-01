@@ -1,3 +1,5 @@
+## [Project End of Life Notice](https://ubuntuce.com)
+
 <h1><img src="https://raw.githubusercontent.com/jeremehancock/ubuntu-ce-wallpapers/main/logo.png" height="50" /> UbuntuCE Wallpapers</h1>
 
 <img src="https://raw.githubusercontent.com/jeremehancock/ubuntu-ce-wallpapers/main/wallpapers.webp" />
